@@ -6,6 +6,10 @@ const routes = [
     path: '/',
     component: MainLayout,
     children: [
+      // {
+      //   path: 'settings', // 实际路径为 /settings
+      //   component: () => import('@/views/Settings.vue'),
+      // },
       {
         path: 'settings', // 实际路径为 /settings
         component: () => import('@/views/Settings.vue'),
