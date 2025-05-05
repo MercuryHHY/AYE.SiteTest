@@ -1,4 +1,7 @@
-# AYE.Site
+# AYE.SiteTest
+个人在小白阶段 自行搭建的Vue3框架
+原本是想着与后端适配，但是目前 是直接 引用了开源社区成熟的 Vue3 框架 二开
+所以此仓库也就没有啥意义了
 
 This template should help get you started developing with Vue 3 in Vite.
 
